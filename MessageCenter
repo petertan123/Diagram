@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T09:00:54.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.7.8" etag="HwUZrQ_CqHSKR766T8lv" type="github"><diagram id="vp66Zwro0RFJy_1UdKWf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-16T09:12:22.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="suwE-re3VE4CESVpvmx4" version="14.7.8" type="github">
+  <diagram id="vp66Zwro0RFJy_1UdKWf" name="Page-1">
+    <mxGraphModel dx="854" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OczzC3MuNB2sLEmus_zo-3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-1" target="OczzC3MuNB2sLEmus_zo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-1" target="OczzC3MuNB2sLEmus_zo-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="230" />
+              <mxPoint x="340" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;全局消息框架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-2" target="OczzC3MuNB2sLEmus_zo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-9" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-2" target="OczzC3MuNB2sLEmus_zo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-13" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-2" target="OczzC3MuNB2sLEmus_zo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;普通消息处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-4" target="OczzC3MuNB2sLEmus_zo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-4" target="OczzC3MuNB2sLEmus_zo-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="OczzC3MuNB2sLEmus_zo-4" target="OczzC3MuNB2sLEmus_zo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;特殊消息处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-6" value="&lt;span&gt;SendMessage&lt;br&gt;时会对所有登记Listener的单位进行调用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-8" value="类似于广播的机制" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-10" value="需要先对对应的MessageID，以及特殊的标识ID进行Listener的登记" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-12" value="需要先对对应的MessageID进行Listener的登记" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-15" value="SendSpecialMessage时会对所有登记对应消息ID和标识ID的Listener进行调用" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OczzC3MuNB2sLEmus_zo-17" value="局部广播/单播" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
