@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T12:45:01.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="aQCCfCwFPBxUQTMhf9bO" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T16:07:19.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="x80daVY1xJXT3KM3sm8w" version="14.7.8" type="github">
   <diagram id="GHnCLWtDPSr6zEJML6VO" name="Page-1">
-    <mxGraphModel dx="854" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,9 @@
         <mxCell id="yv134YBQA827VRUQP_tz-39" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yv134YBQA827VRUQP_tz-9" target="yv134YBQA827VRUQP_tz-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-59" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yv134YBQA827VRUQP_tz-9" target="yv134YBQA827VRUQP_tz-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yv134YBQA827VRUQP_tz-9" value="ShopItem" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="324" y="500" width="120" height="60" as="geometry" />
         </mxCell>
@@ -77,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yv134YBQA827VRUQP_tz-19" value="创建（建造者模式）" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="524" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv134YBQA827VRUQP_tz-41" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yv134YBQA827VRUQP_tz-21" target="yv134YBQA827VRUQP_tz-40">
           <mxGeometry relative="1" as="geometry" />
@@ -155,13 +158,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yv134YBQA827VRUQP_tz-52" value="ShopItemManager" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv134YBQA827VRUQP_tz-54" value="Dictionary存储对应商品ID--商品类" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="490" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv134YBQA827VRUQP_tz-56" value="单例类" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="490" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-61" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yv134YBQA827VRUQP_tz-58" target="yv134YBQA827VRUQP_tz-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-63" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yv134YBQA827VRUQP_tz-58" target="yv134YBQA827VRUQP_tz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-65" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="yv134YBQA827VRUQP_tz-58" target="yv134YBQA827VRUQP_tz-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-58" value="商品保存" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-60" value="代理模式" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="670" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-62" value="ShopItemSave&lt;br&gt;封装保存" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="670" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv134YBQA827VRUQP_tz-64" value="存储在XML中，动态改变结点属性" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
