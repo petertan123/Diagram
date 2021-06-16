@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T09:12:22.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="suwE-re3VE4CESVpvmx4" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T10:51:52.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="K4s9oHI4N8cr5WVj3T8e" version="14.7.8" type="github">
   <diagram id="vp66Zwro0RFJy_1UdKWf" name="Page-1">
     <mxGraphModel dx="854" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="OczzC3MuNB2sLEmus_zo-6" value="&lt;span&gt;SendMessage&lt;br&gt;时会对所有登记Listener的单位进行调用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OczzC3MuNB2sLEmus_zo-8" value="类似于广播的机制" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="OczzC3MuNB2sLEmus_zo-8" value="全局广播/单播" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OczzC3MuNB2sLEmus_zo-10" value="需要先对对应的MessageID，以及特殊的标识ID进行Listener的登记" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
