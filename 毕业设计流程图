@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T08:45:05.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.7.9" etag="NrY-budDgON6CCeLOVFF" type="github"><diagram id="PmebFz1em075Zi7partd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-15T08:57:04.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="rV6CCHIRq3V5embuZH_E" version="14.7.9" type="github">
+  <diagram id="PmebFz1em075Zi7partd" name="Page-1">
+    <mxGraphModel dx="1037" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--2" target="C1uJqvN8_sxHh3KkZqh--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--2" value="游戏类型、模式&lt;br&gt;对战人数、风格敲定" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--3" target="C1uJqvN8_sxHh3KkZqh--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--3" value="XLua导入项目，一些基础C#帮助类注入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--5" target="C1uJqvN8_sxHh3KkZqh--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--13" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--5" target="C1uJqvN8_sxHh3KkZqh--12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="540" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--14" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--5" target="C1uJqvN8_sxHh3KkZqh--7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="210" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--16" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--5" target="C1uJqvN8_sxHh3KkZqh--15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="320" />
+              <mxPoint x="700" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--5" value="游戏底层框架设计&lt;br&gt;(Lua脚本搭建)" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--18" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--7" target="C1uJqvN8_sxHh3KkZqh--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="460" />
+              <mxPoint x="380" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--7" value="游戏场景搭建，UI设计，人物动作、特效设计" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--9" target="C1uJqvN8_sxHh3KkZqh--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--9" value="基于设计好的底层框架具体设计游戏逻辑，UI框架采用MVVM的方式来设计和使用" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="315" y="345" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--20" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--12" target="C1uJqvN8_sxHh3KkZqh--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="460" />
+              <mxPoint x="380" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--12" value="部分简单shader的研究和编写(遮挡混合等），相机后处理操作处理画面效果" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--15" target="C1uJqvN8_sxHh3KkZqh--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="460" />
+              <mxPoint x="380" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--15" value="网络同步部分暂顶Mirror框架，根据效果决定是否使用sproto协议+socket设计" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--17" target="C1uJqvN8_sxHh3KkZqh--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--17" value="游戏性能测试和优化，采用部分白盒测试，通过遮挡剔除、打图集、对象池等方法进行优化" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--22" value="验收最终成果" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
