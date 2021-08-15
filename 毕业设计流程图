@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T08:57:04.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="rV6CCHIRq3V5embuZH_E" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T08:57:55.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="PTQiZbJyn1SC-MUsnrpw" version="14.7.9" type="github">
   <diagram id="PmebFz1em075Zi7partd" name="Page-1">
     <mxGraphModel dx="1037" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="C1uJqvN8_sxHh3KkZqh--6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--3" target="C1uJqvN8_sxHh3KkZqh--5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C1uJqvN8_sxHh3KkZqh--3" value="XLua导入项目，一些基础C#帮助类注入" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--3" value="XLua导入项目，注入&lt;br&gt;部分基础C#帮助类和Unity回调函数" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C1uJqvN8_sxHh3KkZqh--11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="C1uJqvN8_sxHh3KkZqh--5" target="C1uJqvN8_sxHh3KkZqh--9">
@@ -91,7 +91,7 @@
         <mxCell id="C1uJqvN8_sxHh3KkZqh--17" value="游戏性能测试和优化，采用部分白盒测试，通过遮挡剔除、打图集、对象池等方法进行优化" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="320" y="510" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="C1uJqvN8_sxHh3KkZqh--22" value="验收最终成果" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="C1uJqvN8_sxHh3KkZqh--22" value="验收最终成果（可能会增加Lua代码热更部分）" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
