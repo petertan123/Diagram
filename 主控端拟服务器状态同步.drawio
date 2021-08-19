@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T06:08:41.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="qiYqby5Ges9CiOJMa1n7" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-19T06:13:49.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="f4gslCsCYe6mWD7K-MEW" version="14.9.4" type="github">
   <diagram id="iZbAmX5P0z0nILiF87Cm" name="Page-1">
     <mxGraphModel dx="1037" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -46,11 +46,11 @@
         <mxCell id="c_8_bMXXc22yekiWOrj0-34" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="c_8_bMXXc22yekiWOrj0-17" target="c_8_bMXXc22yekiWOrj0-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_8_bMXXc22yekiWOrj0-17" value="本地演算" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="c_8_bMXXc22yekiWOrj0-17" value="本地演算" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_8_bMXXc22yekiWOrj0-19" value="将按键输入上传到服务器" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_8_bMXXc22yekiWOrj0-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="1" source="c_8_bMXXc22yekiWOrj0-23" target="c_8_bMXXc22yekiWOrj0-19">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="c_8_bMXXc22yekiWOrj0-29" value="网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="414" y="560" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c_8_bMXXc22yekiWOrj0-30" value="状态赋值" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="c_8_bMXXc22yekiWOrj0-30" value="状态赋值" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="645" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_8_bMXXc22yekiWOrj0-33" value="将演算中改变的状态回传给服务器（设置缓存存储上个状态）" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
@@ -83,7 +83,7 @@
           <mxGeometry x="480" y="300" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c_8_bMXXc22yekiWOrj0-47" value="这边其实可以考虑一下&lt;br&gt;要不要也做预处理&lt;br&gt;（对位置信息）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="480" y="490" width="150" height="80" as="geometry" />
+          <mxGeometry x="465" y="490" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
