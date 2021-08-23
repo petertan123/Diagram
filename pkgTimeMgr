@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T07:58:32.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="snSVjVDGDcBYJaRWao-9" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-23T08:12:48.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="L_tEJI6IL7lqFn_rLOEq" version="14.9.8" type="github">
   <diagram id="596fRq491tutbLJawV9E" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="yxP2EGww95zedv-gvukY-6" value="fixedUpdate_updater" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="460" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yxP2EGww95zedv-gvukY-9" value="v_id2node" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="yxP2EGww95zedv-gvukY-9" value="v_id2node&lt;br&gt;hashmap记录下id对应的node节点，方便删除" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxP2EGww95zedv-gvukY-11" value="v_count" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="1">
